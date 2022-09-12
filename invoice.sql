@@ -5,7 +5,9 @@ SELECT * FROM invoice;
 -- FROM invoice WHERE 	billing_country = 'USA';
 
 -- Step 6: 2
--- SELECT * FROM invoice ORDER BY total DESC;
+-- SELECT * FROM invoice
+-- ORDER BY total DESC
+-- LIMIT 1;
 
 -- Step 6: 3
 -- SELECT * FROM invoice ORDER BY total;
